@@ -10,7 +10,7 @@ Personal C+ is an innovative application designed to solve the "clothing mismatc
 *   **Virtual Try-On**: Real-time visualization utilizing the mobile device's built-in camera to simulate fit and style.
 *   **Fashion Genome**: Personalized recommendations based on skin tone, body proportions, and historical style preferences.
 
-## 🛠️ Tech Stack (Unity & Beyond)
+## 🛠️ Tech Stack 
 *   **Mobile Framework**: Developed for seamless use on iOS and Android mobile devices.
 *   **AI Engine**: Machine learning models for body shape detection, skin tone analysis, and recommendation engines.
 *   **Computer Vision**: Leveraging mobile camera hardware for real-time body measurement and virtual try-on.
