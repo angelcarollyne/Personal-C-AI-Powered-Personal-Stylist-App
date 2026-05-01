@@ -22,8 +22,8 @@ Personal C+ is an innovative application designed to solve the "clothing mismatc
 *   **Zhang Gefei**: Mathematics (Renmin University of China).
 *   **Cindy Yu**: Visual Arts (UBC).
 
-## Project Links
-**Prototype (Figma)**: [View Design]([https://www.figma.com/make/CI6IQHNDMU8FIRML2FPKPE/PERSONALC--](https://www.figma.com/make/ci6IqHndmu8fIRmL2fpKpe/PersonalC--AI%E4%B8%AA%E6%80%A7%E7%A9%BF%E6%90%AD%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BA%94%E7%94%A8?node-id=0-1&t=qLYeJqaJXdVzv2Nv-1))
+## 🔗 Project Links
+*   **Prototype (Figma)**: [View Design](https://www.figma.com/design/CI6IQHNDMU8FIRML2FPKPE/PersonalC--AI%E4%B8%AA%E6%80%A7%E7%A9%BF%E6%90%AD%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BA%94%E7%94%A8?node-id=0-1&t=qLYeJqaJXdVzv2Nv-1)
 
 ---
 *Developed by CloverTech.
